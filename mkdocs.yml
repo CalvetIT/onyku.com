@@ -1,0 +1,7 @@
+site_name: Onyku
+nav:
+  - Home: index.md
+theme: readthedocs
+plugins:
+  - search
+  - mermaid2
