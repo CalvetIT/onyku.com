@@ -1,6 +1,9 @@
 site_name: Onyku
 nav:
   - Home: index.md
+  - Pre providers:
+    - Official:
+      - Entrepreneurship in Norway: https://calvetit.github.io/pre-onyku-provider-entrepreneurship-in-norway/
 theme: readthedocs
 plugins:
   - search
